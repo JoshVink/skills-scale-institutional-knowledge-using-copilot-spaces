@@ -18,3 +18,16 @@ Quality assurance and release practices emphasize automated coverage plus manual
 - [OctoAcme Risks and Communication](octoacme-risks-and-communication.md)
 - [OctoAcme Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [OctoAcme Roles and Personas](octoacme-roles-and-personas.md)
+
+## Templates
+
+Reusable templates to maintain consistency when contributing to process documentation.
+
+- [Role Responsibility Template](templates/role-responsibility-template.md) — standard format for adding or updating role entries in the roles and personas document
+
+## Checklists
+
+Actionable checklists to operationalize key project management activities.
+
+- [Risk Management Checklist](checklists/risk-management-checklist.md) — steps to identify, log, assess, escalate, and review project risks
+- [Release Readiness Checklist](checklists/release-readiness-checklist.md) — pre-release checklist covering quality, operations, documentation, stakeholder sign-off, and rollback plans
